@@ -31,9 +31,6 @@ extra:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/TheNewThinkTank/lepus
 
-extra_css:
-  - assets/extra.css
-
 plugins:
   - search
   - git-authors
