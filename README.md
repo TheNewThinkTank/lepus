@@ -1,2 +1,3 @@
-# mkdocs-material-template
-Template repository for mkdocs setup with material and GitHub Pages
+# Lepus
+
+Welcome to the home of Snowball

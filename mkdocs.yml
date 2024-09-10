@@ -1,4 +1,4 @@
-site_name: mkdocs-material-template - Template repository for mkdocs setup with material and GitHub Pages
+site_name: I am the bunny Snowball - Welcome to my home
 theme:
   name: material
   features:
@@ -29,7 +29,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/TheNewThinkTank/mkdocs-material-template
+      link: https://github.com/TheNewThinkTank/lepus
 
 plugins:
   - search
